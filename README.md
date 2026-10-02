@@ -76,7 +76,7 @@ The test-set MAE of approximately **0.81°C** means that the model's average abs
 - Residual analysis indicates generally balanced errors, although the residual-vs-predicted plot suggests some remaining non-linear structure.
 
 ## Repository Structure
-
+"""
 calcofi-water-temperature/
 │
 ├── data/
@@ -93,7 +93,7 @@ calcofi-water-temperature/
 │
 ├── README.md
 └── requirements.txt
-
+"""
 
 The raw CalCOFI data are not included in the repository because of their size. The notebook documents how the dataset can be obtained.
 
